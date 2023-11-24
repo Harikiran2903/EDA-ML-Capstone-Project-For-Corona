@@ -1,2 +1,2 @@
-# EDA+ML Capstone Project For Corona
+# Covid-19 Analysis based on Symptoms
  
