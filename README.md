@@ -1,2 +1,2 @@
-# Covid-19 Analysis based on Symptoms
+# Predicting Covid-19 For Better Healthcare
  
